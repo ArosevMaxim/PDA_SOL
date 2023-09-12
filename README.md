@@ -2,4 +2,4 @@
 Аросев Максим Георгиевич, ответы на самостоятельные работы по дисциплине Python для анализа данных
 
 
-['Лекция 1'](/main/BasicElemtnts.ipynb).
+['Лекция 1'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/BasicElemtnts.ipynb).
