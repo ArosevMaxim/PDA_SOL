@@ -7,3 +7,5 @@
 ['Самостоятельная работа 1'](/ArosevMaxim/PDA_SOL/blob/main/СамостоятельнаяРабота1Аросев.ipynb).
 
 ['Самрстоятельная работа 2'](/ArosevMaxim/PDA_SOL/blob/main/hw_2_numpy_Arosev.ipynb).
+
+['Самрстоятельная работа 3'](/ArosevMaxim/PDA_SOL/blob/main/hw_3_pandas_Arosev.ipynb).
