@@ -11,3 +11,7 @@
 ['Самрстоятельная работа 3'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/hw_3_pandas_Arosev.ipynb).
 
 ['Самрстоятельная работа 4'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/hw_4_visualisation_Arosev.ipynb)
+
+
+
+['Практическая работа 1'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/Exercise1.ipynb)
