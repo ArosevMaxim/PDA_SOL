@@ -17,3 +17,5 @@
 ['Практическая работа 1'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/Exercise1.ipynb)
 
 ['Практическая работа 2'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/Exercise2.ipynb)
+
+['Практическая работа 3 1'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/01_Symbolic_mathematics_with_Sympy.ipynb)
