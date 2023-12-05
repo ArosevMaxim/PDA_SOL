@@ -9,3 +9,5 @@
 ['Самрстоятельная работа 2'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/hw_2_numpy_Arosev.ipynb).
 
 ['Самрстоятельная работа 3'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/hw_3_pandas_Arosev.ipynb).
+
+['Самрстоятельная работа 4'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/hw_4_visualisation_Arosev.ipynb)
