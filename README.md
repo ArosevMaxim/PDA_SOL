@@ -15,3 +15,4 @@
 
 
 ['Практическая работа 1'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/Exercise1.ipynb)
+['Практическая работа 2'](https://github.com/ArosevMaxim/PDA_SOL/blob/main/Exercise2.ipynb)
